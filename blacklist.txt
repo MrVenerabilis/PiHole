@@ -1,9 +1,9 @@
 web.de
-diagnostics.meethue.com
+meethue.com
 mqtt.2030.ltsapis.goog
 a1887.dscq.akamai.net
 r3.o.lencr.org
-d186rixkn5ruba.cloudfront.net
+cloudfront.net
 p-defr00.kxcdn.com
 mobile-huk-prod.cmtelematics.com
 graph.instagram.com
@@ -18,12 +18,11 @@ config.edge.skype.com
 cdn.appuals.com
 geomobileservices-pa.googleapis.com
 hag-dre.ai.hicloud.com
-prod-stpeter-pmd.limelight.cdn.rakuten.tv.fritz.box
-prod-stpeter-pmd.limelight.cdn.rakuten.tv
+rakuten.tv.fritz.box
+rakuten.tv
+iotcplatform.com
+iotcplatform.com.fritz.box
 location.services.mozilla.com
-all-d-master-85arrwe488ffwtalxet9.iotcplatform.com
-all-d-master-85arrwe488ffwtalxet9.iotcplatform.com.fritz.box
-diag.meethue.com
 pubsub.pubnub.com
 
 
