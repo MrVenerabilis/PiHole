@@ -30,3 +30,4 @@ gstatic.com
 nflxvideo.com
 dbankcloud.com
 iotcplatform.com
+iotcplatform.com
